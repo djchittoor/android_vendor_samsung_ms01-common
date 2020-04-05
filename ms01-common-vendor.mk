@@ -57,6 +57,7 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/ms01-common/proprietary/vendor/lib/libTsAf.so:system/vendor/lib/libTsAf.so \
     vendor/samsung/ms01-common/proprietary/vendor/lib/libTs_J_Accm.so:system/vendor/lib/libTs_J_Accm.so \
     vendor/samsung/ms01-common/proprietary/vendor/lib/libTs_J_Awb.so:system/vendor/lib/libTs_J_Awb.so \
+    vendor/samsung/ms01-common/proprietary/vendor/lib/libacdapi_clb.so:system/vendor/lib/libacdapi_clb.so \
     vendor/samsung/ms01-common/proprietary/vendor/lib/libarcsoft_flawlessface.so:system/vendor/lib/libarcsoft_flawlessface.so \
     vendor/samsung/ms01-common/proprietary/vendor/lib/libarcsoft_night_shot.so:system/vendor/lib/libarcsoft_night_shot.so \
     vendor/samsung/ms01-common/proprietary/vendor/lib/libarcsoft_panorama_burstcapture.so:system/vendor/lib/libarcsoft_panorama_burstcapture.so \
